@@ -28,7 +28,6 @@ CREATE TABLE vine_table (
   verified_purchase TEXT
 );
 
-DROP TABLE vine_table;
 SELECT * FROM review_id_table LIMIT 10;
 SELECT * FROM customers_table LIMIT 10;
 SELECT * FROM products_table LIMIT 10;
